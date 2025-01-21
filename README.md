@@ -37,6 +37,6 @@ At 19, I moved from Greece to the UK to immerse myself in the tech industry, and
 ## 🔗 Let’s Connect:
 Feel free to check out my repositories, explore my projects, or reach out if you’re interested in collaborating or discussing tech, entrepreneurship, or anything else!
 
-<a href="https://genoch.com"><img src="https://github.com/user-attachments/assets/78896fe3-f4e0-4578-94c8-cc5c0ca8412f" width="200" alt="genoch website logo"></a>
-<a href="https://nikolouzos.com"><img src="https://github.com/user-attachments/assets/411fca00-7e04-4069-b08c-9281d457e345" width="200" alt="nikolouzos website logo"></a>
-<a href="https://linkedin.com/in/nikolouzos"><img src="https://github.com/user-attachments/assets/8e876dfd-1313-444a-96eb-269c3f59c47c" width="200" alt="linkedin logo"></a>
+<a href="https://genoch.com"><img src="https://github.com/user-attachments/assets/78896fe3-f4e0-4578-94c8-cc5c0ca8412f" width="120" alt="genoch website logo"></a>
+<a href="https://nikolouzos.com"><img src="https://github.com/user-attachments/assets/411fca00-7e04-4069-b08c-9281d457e345" width="120" alt="nikolouzos website logo"></a>
+<a href="https://linkedin.com/in/nikolouzos"><img src="https://github.com/user-attachments/assets/8e876dfd-1313-444a-96eb-269c3f59c47c" width="120" alt="linkedin logo"></a>
