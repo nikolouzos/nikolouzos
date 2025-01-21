@@ -36,3 +36,6 @@ At 19, I moved from Greece to the UK to immerse myself in the tech industry, and
 
 ## 🔗 Let’s Connect:
 Feel free to check out my repositories, explore my projects, or reach out if you’re interested in collaborating or discussing tech, entrepreneurship, or anything else!
+
+[![genoch website logo](https://github.com/user-attachments/assets/78896fe3-f4e0-4578-94c8-cc5c0ca8412f)](https://genoch.com) [![nikolouzos website logo](https://github.com/user-attachments/assets/411fca00-7e04-4069-b08c-9281d457e345)](https://nikolouzos.com) [![linkedin logo](https://github.com/user-attachments/assets/8e876dfd-1313-444a-96eb-269c3f59c47c)](https://linkedin.com/in/nikolouzos)
+
