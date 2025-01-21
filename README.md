@@ -3,10 +3,10 @@
 I’m an iOS engineer with a passion for creating impactful, user-centered software. Over the past 7+ years, I’ve built a career around delivering high-performance applications and scalable solutions. I thrive in dynamic environments where I can both challenge myself technically and lead teams to success. I’m also a startup founder, which has expanded my skill set beyond coding to include marketing, sales, leadership, and client relations.
 
 ## 🔧 Skills & Expertise:
-- **Languages**: Swift, Objective-C, Kotlin, Java
-- **Frameworks & Tools**: UIKit, SwiftUI, Tuist, GraphQL, Combine, Jenkins, Fastlane, CircleCI, Bitrise
-- **Architectural Patterns**: MVC, MVVM-C, VIPER, Composable Architecture
-- **CI/CD**: Strong expertise in continuous integration and delivery pipelines.
+- **Languages**: Swift, Objective-C, Kotlin, Java, JavaScript, TypeScript, Python
+- **Frameworks & Tools**: UIKit, SwiftUI, Tuist, GraphQL, Combine, Async/Await, React, Vue.js, Astro, PayloadCMS
+- **Architectural Patterns**: MVC, MVVM-C, VIPER, The Composable Architecture
+- **CI/CD**: Strong expertise in continuous integration and delivery pipelines (Jenkins, Fastlane, CircleCI, Bitrise, Docker, Docker Compose)
 
 ## 🚀 Experience Highlights:
 ### Genoch (Founder & Engineer)
